@@ -3018,3 +3018,14 @@ machine-learning/PyTorch/saved_models/MNIST/raw/train-images-idx3-ubyte
 machine-learning/PyTorch/saved_models/MNIST/raw/train-images-idx3-ubyte.gz
 machine-learning/PyTorch/saved_models/MNIST/raw/train-labels-idx1-ubyte
 machine-learning/PyTorch/saved_models/MNIST/raw/train-labels-idx1-ubyte.gz
+machine-learning/PyTorch/tarefas/FashionMNIST/raw/t10k-images-idx3-ubyte
+machine-learning/PyTorch/tarefas/FashionMNIST/raw/t10k-images-idx3-ubyte.gz
+machine-learning/PyTorch/tarefas/FashionMNIST/raw/t10k-labels-idx1-ubyte
+machine-learning/PyTorch/tarefas/FashionMNIST/raw/t10k-labels-idx1-ubyte.gz
+machine-learning/PyTorch/tarefas/FashionMNIST/raw/train-images-idx3-ubyte
+machine-learning/PyTorch/tarefas/FashionMNIST/raw/train-images-idx3-ubyte.gz
+machine-learning/PyTorch/tarefas/FashionMNIST/raw/train-labels-idx1-ubyte
+machine-learning/PyTorch/tarefas/FashionMNIST/raw/train-labels-idx1-ubyte.gz
+machine-learning/PyTorch/indoorCVPR_09.tar
+*.jpg
+*.JPG
